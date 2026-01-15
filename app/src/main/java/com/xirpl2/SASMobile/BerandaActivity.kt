@@ -151,8 +151,9 @@ class BerandaActivity : AppCompatActivity() {
         
         btnSettings.setOnClickListener {
             dismissPopupMenu()
-            // TODO: Navigate to Settings Activity
-            Toast.makeText(this, "Pengaturan - Coming Soon", Toast.LENGTH_SHORT).show()
+            // Navigate to Settings Activity
+            val intent = Intent(this, PengaturanAkunActivity::class.java)
+            startActivity(intent)
         }
         
         btnLogout.setOnClickListener {

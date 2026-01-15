@@ -11,6 +11,7 @@
     <dimen name="text_waktu">11sp</dimen>
     <dimen name="text_bawah_waktu">8sp</dimen>
     <dimen name="text_masukOTP">11sp</dimen>
+    <dimen name="text_kelola">10sp</dimen>
     <dimen name="spacing_medium">12dp</dimen>
     <dimen name="spacing_large">16dp</dimen>
 

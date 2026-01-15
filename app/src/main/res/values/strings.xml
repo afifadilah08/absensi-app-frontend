@@ -45,7 +45,7 @@
     <string name="Grafik">Grafik</string>
     <string name="WaktuAbsensi">Waktu Presensi</string>
     <string name="DeskripsiAbsensi">Periksa waktu presensi Anda</string>
-    <string name="Absensi">Absensi</string>
+    <string name="Presensi">Presensi</string>
     <string name="Lokasi">Lokasi</string>
     <string name="Valid">Valid</string>
     <string name="JadwalHariIni">Jadwal Hari Ini</string>
@@ -64,5 +64,18 @@
     <string name="JadwalSholatTerdekat">Jadwal Sholat Terdekat</string>
     <string name="SilahkanHariIni">Silahkan Hari Ini</string>
     <string name="icon">Icon</string>
+
+    <!-- Pengaturan Akun -->
+    <string name="Pengaturan">Pengaturan</string>
+    <string name="PengaturanAkun">Pengaturan Akun</string>
+    <string name="KelolaInformasiAkun">Kelola informasi akun anda</string>
+    <string name="FotoProfil">Foto Profil</string>
+    <string name="DeskripsiFotoProfil">Foto profil kamu akan otomatis memotong huruf depan namamu</string>
+    <string name="NamaLengkap">Nama Lengkap</string>
+    <string name="JenisKelamin">Jenis Kelamin</string>
+    <string name="MengubahEmail">Mengubah Email?</string>
+    <string name="SimpanPerubahan">Simpan perubahan</string>
+    <string name="Batal">Batal</string>
+    <string name="Kembali">Kembali</string>
 
 </resources>

@@ -12,6 +12,7 @@
     <dimen name="text_bawah_waktu">10sp</dimen>
     <dimen name="text_email">9sp</dimen>
     <dimen name="text_masukOTP">13sp</dimen>
+    <dimen name="text_kelola">12sp</dimen>
 
     <!-- Spacing -->
     <dimen name="spacing_tiny">4dp</dimen>
@@ -77,7 +78,7 @@
     <dimen name="popup_menu_item_padding">8dp</dimen>
     <dimen name="popup_icon_size">16dp</dimen>
     <dimen name="popup_icon_margin_end">10dp</dimen>
-    <dimen name="popup_divider_height">0.5dp</dimen>
+    <dimen name="popup_divider_height">1dp</dimen>
     
     <!-- Admin Dashboard Card Value -->
     <dimen name="text_value_card">28sp</dimen>
@@ -90,5 +91,9 @@
     <dimen name="text_prayer_name">16sp</dimen>
     <dimen name="text_prayer_time">14sp</dimen>
     <dimen name="prayer_icon_size">24dp</dimen>
+
+    <!-- Profile Photo Width Percent -->
+    <dimen name="constraint_profile_photo_width">0.28</dimen>
+    <dimen name="text_foto_profil">16sp</dimen>
 
 </resources>

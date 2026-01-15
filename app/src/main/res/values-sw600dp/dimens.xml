@@ -11,6 +11,7 @@
     <dimen name="text_input_hint">17sp</dimen>
     <dimen name="text_button">18sp</dimen>
     <dimen name="text_small">16sp</dimen>
+    <dimen name="text_kelola">16sp</dimen>
     <dimen name="spacing_large">24dp</dimen>
     <dimen name="input_height">56dp</dimen>
     <dimen name="button_height">64dp</dimen>
@@ -58,7 +59,7 @@
     <dimen name="popup_menu_item_padding">10dp</dimen>
     <dimen name="popup_icon_size">18dp</dimen>
     <dimen name="popup_icon_margin_end">12dp</dimen>
-    <dimen name="popup_divider_height">0.5dp</dimen>
+    <dimen name="popup_divider_height">1dp</dimen>
     
     <!-- Admin Dashboard Card Value -->
     <dimen name="text_value_card">32sp</dimen>
@@ -66,10 +67,15 @@
     <!-- Admin Dashboard Card Label (Title like Total Siswa, etc) -->
     <dimen name="text_admin_card_label">14sp</dimen>
 
-</resources>    
+
     <!-- Prayer Schedule -->
     <dimen name="text_prayer_title">20sp</dimen>
     <dimen name="text_prayer_name">20sp</dimen>
     <dimen name="text_prayer_time">18sp</dimen>
     <dimen name="prayer_icon_size">28dp</dimen>
 
+    <!-- Profile Photo Width Percent -->
+    <dimen name="constraint_profile_photo_width">0.08</dimen>
+    <dimen name="text_foto_profil">20sp</dimen>
+
+</resources>
